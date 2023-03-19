@@ -15,5 +15,5 @@ This will launch the game window and you can start playing.
 The `cards` folder contains the images of the cards used in the game. These images are in PNG format and are used to display the cards in the game window. The folder contains a total of 52 card images, one for each card in a standard deck of playing cards.
 
 To use custom card images, simply replace the images in the `cards` folder with your own images. Make sure that the file names of the new images match the file names of the existing images, or modify the code accordingly to load the new images with different file names.
-##How to Play
+## How to Play
 The rules of the game are simple. The goal is to get a hand value of 21 or as close to 21 as possible without going over. The player draws cards from the deck and can choose to stand (keep their current hand) or hit (draw another card). The dealer draws cards until their hand value is at least 17. If the player's hand value exceeds 21, they lose the game. If the dealer's hand value exceeds 21 or is lower than the player's hand value, the player wins. If the player's hand value is equal to the dealer's hand value, the game is a tie.
