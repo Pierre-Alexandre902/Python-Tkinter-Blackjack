@@ -12,7 +12,7 @@ To run the game, simply open a terminal or command prompt and navigate to the di
 `python blackjack.py`
 This will launch the game window and you can start playing.
 ## Cards Folder
-The `cards` folder contains the images of the cards used in the game. These images are in PNG format and are used to display the cards in the game window. The folder contains a total of 52 card images, one for each card in a standard deck of playing cards.
+The `blackjack_cards` folder contains the images of the cards used in the game. These images are in PNG format and are used to display the cards in the game window. The folder contains a total of 52 card images, one for each card in a standard deck of playing cards.
 
 To use custom card images, simply replace the images in the `cards` folder with your own images. Make sure that the file names of the new images match the file names of the existing images, or modify the code accordingly to load the new images with different file names.
 ## How to Play
